@@ -8,6 +8,23 @@
     <description>Most recent updates for Intension macOS app.</description>
     <language>en</language>
 
+    <item>
+      <title>Version 0.22.1</title>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.22.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 19 Jan 2026 21:45:00 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.22.1</h2>
+        <p>See release notes on GitHub for details.</p>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.22.1/Intension-0.22.1.zip"
+          sparkle:edSignature="NRzbd7SWTgKQK0VizWMGgAkmjaoLHKWl8XSyyY+E2wPCT2hE0D5J8z1xdCqSxwK721fnHR/JJUVc8h92Pk5FAQ=="
+          length="15096061"
+          type="application/octet-stream" />
+    </item>
+
     <!--
     Template for new releases - copy this item block and fill in the values:
 
