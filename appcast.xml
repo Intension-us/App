@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.23.0</title>
+      <sparkle:version>0.23.0</sparkle:version>
+      <sparkle:shortVersionString>0.23.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 20 Jan 2026 01:53:01 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.23.0</h2><ul><li><strong>Sparkle Fixes:</strong> Fixed version comparison to use marketing version, ensuring updates are properly detected</li><li><strong>Auto-Updates:</strong> Added     "Check for Updates" menu item and enabled automatic update checks</li><li><strong>Crash Reporting:</strong> dSYMs now uploaded to Sentry for better crash symbolication</li></ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.23.0/Intension-0.23.0.zip"
+          sparkle:edSignature="HJtnBpywZyNsEgQRW1SzYXN83RpNkFpPZKXo3bFg95F3H4NBYMshlICwRBf+sxv9oq9oz9O4yRKRUUUho0VCCA=="
+          length="15096594"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.22.1</title>
       <sparkle:version>0.22.1</sparkle:version>
       <sparkle:shortVersionString>0.22.1</sparkle:shortVersionString>
