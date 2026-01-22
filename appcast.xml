@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.23.1</title>
+      <sparkle:version>0.23.1</sparkle:version>
+      <sparkle:shortVersionString>0.23.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 22 Jan 2026 18:24:50 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.23.1</h2><ul>                                                                                                                                                                                                                                                                                            <li><strong>Sparkle Fixes:</strong> Fixed version comparison to use marketing version, ensuring updates are properly detected</li>                                                                                                                                                            <li><strong>Auto-Updates:</strong> Added "Check for Updates" menu item and enabled automatic update checks</li>                                                                                                                                                                               <li><strong>Crash Reporting:</strong> dSYMs now uploaded to Sentry for better crash symbolication</li>                                                                                                                                                                                      </ul> 
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.23.1/Intension-0.23.1.zip"
+          sparkle:edSignature="3Qhr7SJYZhQ+Mby3CWpSv36DfGD/hyFK7n/x/MHOPGZINtV6O8uvpQ0r50isDnbDRzhnxXu1uuZyGu6rbaPuAw=="
+          length="15096554"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.23.0</title>
       <sparkle:version>0.23.0</sparkle:version>
       <sparkle:shortVersionString>0.23.0</sparkle:shortVersionString>
