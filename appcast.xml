@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.24.0</title>
+      <sparkle:version>0.24.0</sparkle:version>
+      <sparkle:shortVersionString>0.24.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 26 Jan 2026 19:14:36 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.24.0</h2><ul>                                                                                                                                                                               <li><strong>Faster AI Insights</strong> - Completely redesigned on-device AI for faster, more reliable productivity analysis</li>                                                <li><strong>ML Test Bench</strong> - New developer tool for testing and comparing AI model performance (accessible via menu bar)</li>                                            <li><strong>Improved Reliability</strong> - AI-generated insights now always produce valid results without retries</li>                                                          <li><strong>Performance Tracking</strong> - Behind-the-scenes monitoring to help us improve AI speed on different Mac models</li>                                                <li><strong>Simplified Settings</strong> - Cleaner ML model settings with fewer options to configure</li>                                                                        <li><strong>Bug Fixes</strong> - Fixed issues in settings</li>                                                                                                                 </ul>    
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.24.0/Intension-0.24.0.zip"
+          sparkle:edSignature="k1h/9x3vgli+RIvncpyMhdiSDZGdm4tVBddU0OQN8MuZI1qj+oWvY4gUYHe9g/JqrofRT7YMNZoUn255ZQAkBA=="
+          length="16884141"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.23.1</title>
       <sparkle:version>0.23.1</sparkle:version>
       <sparkle:shortVersionString>0.23.1</sparkle:shortVersionString>
