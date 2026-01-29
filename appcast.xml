@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.25.0</title>
+      <sparkle:version>0.25.0</sparkle:version>
+      <sparkle:shortVersionString>0.25.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 29 Jan 2026 22:31:30 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.25.0</h2><ul>                                                                                                                                                                               <li>Fixed Gemma models not working for AI inference</li>                                                                                                                         <li>Fixed memory building up during AI processing</li>                                                                                                                           <li>Fixed ML Test Bench not releasing memory after tests complete</li>                                                                                                           <li>Reduced peak memory usage during AI tasks</li>                                                                                                                               <li>Improved memory cleanup after each AI generation</li>                                                                                                                      </ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.25.0/Intension-0.25.0.zip"
+          sparkle:edSignature="EGMOu/ms4T4JL+PZKcbZ6PvEb5aSP6OhKfkZKpTrd7LfB3VebDB3ypJs0DkEyrnNlQa66fT05YCNuKHTehkhDg=="
+          length="16926209"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.24.0</title>
       <sparkle:version>0.24.0</sparkle:version>
       <sparkle:shortVersionString>0.24.0</sparkle:shortVersionString>
