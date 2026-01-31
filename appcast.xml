@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.25.1</title>
+      <sparkle:version>0.25.1</sparkle:version>
+      <sparkle:shortVersionString>0.25.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 31 Jan 2026 12:53:33 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.25.1</h2><ul>                                                                                                                                                                             <li><b>Smarter Focus Sessions</b> – Session timestamps are now computed precisely in code, eliminating AI-generated time errors</li>                                             <li><b>Better App Classification</b> – Terminal, iTerm, and Warp now correctly categorized as development tools</li>                                                             <li><b>Improved Daily Insights</b> – More accurate efficiency scoring with proper temperature tuning</li>                                                                        <li><b>Sentry Release Tracking</b> – Crash reports now properly linked to app versions for faster debugging</li>                                                                 </ul> 
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.25.1/Intension-0.25.1.zip"
+          sparkle:edSignature="IemkH5YmjGxGc50RVTyrOTiBXeF5LVZcBZqr+mtm6F05WsS+FIG1fE0vlWdUCgnPjCft6Ogva0LfgAa4EXT6DQ=="
+          length="16938728"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.25.0</title>
       <sparkle:version>0.25.0</sparkle:version>
       <sparkle:shortVersionString>0.25.0</sparkle:shortVersionString>
