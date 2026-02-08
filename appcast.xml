@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.25.2</title>
+      <sparkle:version>0.25.2</sparkle:version>
+      <sparkle:shortVersionString>0.25.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Sun, 08 Feb 2026 04:06:13 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.25.2</h2><ul>                                                                                                                                                                             <li>Fixed race conditions in voice recording and window tracking for improved stability</li>   <li>Fixed duplicate windows appearing on app relaunch</li>                                                                                                                       <li>Improved sleep/wake handling — app recovers gracefully after Mac wakes up</li>   <li>ML model automatically unloads under memory pressure to keep your Mac responsive</li>                                                                                        <li>Added Sentry Metrics for performance monitoring across different Mac hardware (M1–M4)</li>   <li>Full ML model lifecycle tracking — download, load, inference, and unload timing</li>   <li>System health metrics (CPU, GPU, memory, launch time) reported daily via MetricKit</li>   <li>Removed old unused Dashboard code, replaced by the current Activity Tracker</li>   <li>Fixed Python engine dropping responses during concurrent requests</li>   <li>Improved error handling — removed force unwraps in data retention and storage</li>   <li>Reduced battery impact from tab tracking by filtering noisy accessibility events</li>   </ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.25.2/Intension-0.25.2.zip"
+          sparkle:edSignature="Il+peiBU1AdEMSzCdvwaYuYgW00MJRmcp/TrBIHjLlH3RpxTSgpdO3soKKck6BrgQN939AvjeoulhOhtFUbYAg=="
+          length="17327016"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.25.1</title>
       <sparkle:version>0.25.1</sparkle:version>
       <sparkle:shortVersionString>0.25.1</sparkle:shortVersionString>
