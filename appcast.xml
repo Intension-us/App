@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.26.0</title>
+      <sparkle:version>0.26.0</sparkle:version>
+      <sparkle:shortVersionString>0.26.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 10 Feb 2026 23:48:54 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.26.0</h2>  <ul>                                                                                                                                                                               <li>Horizontal session timeline with interactive spheres sized by duration</li>                                                                                                  <li>Click-to-expand session detail popover with activity blocks and efficiency score</li>                                                                                        <li>Live focus sessions computed in real-time before daily recap</li>                                                                                                            <li>Session start dots marking tracking resumption after breaks</li>                                                                                                             <li>Two-finger trackpad scrolling on timeline</li>     <li>Visible range stats cards (efficiency, peak hour, active hours)</li>     <li>Fixed session popover showing wrong activity windows</li>     <li>Removed floating window and mood feedback prompt</li>   </ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.26.0/Intension-0.26.0.zip"
+          sparkle:edSignature="uIZPaQ8MArsByxDx7eNLFj6g7mAl912TmtRIzE/uIetpugv5N612cZ3ZwySGbSAVC/JosSFUVu0WYUEg2zxeDA=="
+          length="17022751"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.25.2</title>
       <sparkle:version>0.25.2</sparkle:version>
       <sparkle:shortVersionString>0.25.2</sparkle:shortVersionString>
