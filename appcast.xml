@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.26.2</title>
+      <sparkle:version>0.26.2</sparkle:version>
+      <sparkle:shortVersionString>0.26.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 11 Feb 2026 11:39:03 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.26.2</h2>  <ul>                                                                                                                                                                               <li>Added Settings window accessible from the menu bar (⌘,)</li>     <li>Fixed crash when reopening Settings or ML Test Bench windows</li>                                                                                                            <li>Clarified metric labels: Score → Attention Score, Most Productive → Today's Best Session</li>     <li>Updated ML prompts to score meetings and media fairly</li>     <li>Switched time display to 12-hour format</li>   </ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.26.2/Intension-0.26.2.zip"
+          sparkle:edSignature="cbcWrUVCAL53gqySlFlQ9RmQKmeW50gQ1+O0jw2sMfNj/CE4QeSQ2+xcouZiJZbzwCHm1/d4uxFn/8sTgZ4lBA=="
+          length="17027867"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.26.1</title>
       <sparkle:version>0.26.1</sparkle:version>
       <sparkle:shortVersionString>0.26.1</sparkle:shortVersionString>
