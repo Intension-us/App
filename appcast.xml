@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.26.1</title>
+      <sparkle:version>0.26.1</sparkle:version>
+      <sparkle:shortVersionString>0.26.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 11 Feb 2026 01:18:39 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.26.1</h2><ul>                                                                                                                                                                               <li>Switched all dashboard times to 12-hour AM/PM format (e.g. 2:30 PM instead of 14:30)</li>                                                                                    <li>Session labels with embedded times are now also displayed in 12-hour format</li>                                                                                             <li>Timeline time ranges, peak hours, and activity timestamps all use the new format</li>   </ul> 
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.26.1/Intension-0.26.1.zip"
+          sparkle:edSignature="qDQjfrTlT17LS9rx7J0NyTj7js7Nf50LoepPpwJjc8hKFUMr9ZmuNvcB9sAx9crM3Dj3cqVoSESWsQ1UOEWeBw=="
+          length="17026674"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.26.0</title>
       <sparkle:version>0.26.0</sparkle:version>
       <sparkle:shortVersionString>0.26.0</sparkle:shortVersionString>
