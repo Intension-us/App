@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.27.0</title>
+      <sparkle:version>0.27.0</sparkle:version>
+      <sparkle:shortVersionString>0.27.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 14 Feb 2026 16:56:25 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.27.0</h2><ul>                                                                                                                                                                               <li>Faster, more reliable data storage — your data now lives in a proper database instead of loose files</li>     <li>Smooth upgrade experience — existing users see a progress screen while their data is automatically migrated (only happens once)</li>                                         <li>Timeline works immediately after upgrade — no need to restart the app to see your history</li>                                                                               <li>Better error recovery — if something goes wrong with the database, the app self-heals instead of crashing</li>                                                               <li>Smaller, cleaner codebase — removed over 1,100 lines of old code that was no longer needed</li>   </ul>  
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.27.0/Intension-0.27.0.zip"
+          sparkle:edSignature="4VETCrgYpA146Ox3d0urm29Iv1yERSskP1MQ1cA6f/Tp7Jymg8NbIzlWI0+W/4fQmcWBXGLU9ztXY0H85qEoCQ=="
+          length="19366478"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.26.2</title>
       <sparkle:version>0.26.2</sparkle:version>
       <sparkle:shortVersionString>0.26.2</sparkle:shortVersionString>
