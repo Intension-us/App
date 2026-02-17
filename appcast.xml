@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.27.1</title>
+      <sparkle:version>0.27.1</sparkle:version>
+      <sparkle:shortVersionString>0.27.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 17 Feb 2026 12:45:11 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.27.1</h2><ul>                                                                                                                                                                             <li>🌐 Extract page URLs from browser windows via Accessibility API (Chrome, Safari, Firefox, Arc, and more)</li>   <li>🎥 Detect browser-based meetings (Google Meet, Zoom, Teams, Webex) from window titles — video calls no longer penalized for low keystrokes</li>                              <li>🧭 Browser library expanded from 7 to 21 — added Opera, Vivaldi, Orion, DuckDuckGo, Zen, Tor, Waterfox, Sidekick, and more</li>                                              <li>⚡ App icon caching in dashboard for faster rendering</li>                                                                                                                   </ul>   
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.27.1/Intension-0.27.1.zip"
+          sparkle:edSignature="sqYor1xkbDmoOp/nrABVJQQcbu/m5PtRv286AFbgdhqvPXgpY/35CdxB5MtiZp95U+6Nh2DybZymVFYgrZH1CQ=="
+          length="19384000"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.27.0</title>
       <sparkle:version>0.27.0</sparkle:version>
       <sparkle:shortVersionString>0.27.0</sparkle:shortVersionString>
