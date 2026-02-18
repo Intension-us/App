@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.28.1</title>
+      <sparkle:version>0.28.1</sparkle:version>
+      <sparkle:shortVersionString>0.28.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 18 Feb 2026 09:45:45 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.28.1</h2><ul><li>Optimized session classification prompt for Qwen3 models — lower temperature, restructured prompt, cut from ~1,200 to ~550 tokens</li></ul> 
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.28.1/Intension-0.28.1.zip"
+          sparkle:edSignature="/WYIlXJga0UfVTIfCsFHvKrmLv690gY/ZBbzO8HTw+L6mDNC9sMLHACnTdwj1aHgm6wvNf0SDER+N2rMlWoFDA=="
+          length="19670862"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.28.0</title>
       <sparkle:version>0.28.0</sparkle:version>
       <sparkle:shortVersionString>0.28.0</sparkle:shortVersionString>
