@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.28.0</title>
+      <sparkle:version>0.28.0</sparkle:version>
+      <sparkle:shortVersionString>0.28.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 18 Feb 2026 02:31:44 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.28.0</h2> <ul>                                                                                                                                                                               <li>New "Right Now" portal — always-on-top floating blob that shows what you're doing in real time (e.g., CODING, RESEARCH, WRITING)</li>     <li>Cmd+I hotkey toggles the portal on/off with debounce protection</li>                                                                                                         <li>Three display modes: assertion (high confidence), question (low confidence), and correction (user feedback)</li>                                                             <li>Organic morphing blob UI with multi-layer glow, backdrop blur, and amber pulse animation</li>                                                                                <li>Auto-dismiss after 8s (high confidence) or 12s (medium confidence)</li>                                                                                                      <li>Pre-classification runs 10s after session start to eliminate perceived ML latency</li>                                                                                       <li>Classification refreshes every 5 minutes via existing session reclassification timer</li>                                                                                    <li>Live session duration display (computed from session start time, not stale ML output)</li>                                                                                   <li>Session detection with automatic boundaries on app switches (&gt;2 min) and return detection (&gt;10 min away)</li>                                                          <li>Meeting detection combining calendar events and 60+ known meeting app bundle IDs</li>     <li>User corrections feed back into future classifications via learning loop</li>     <li>New GRDB tables for activity sessions and session corrections with 365-day retention</li>     <li>Shared SessionClassificationContextBuilder for consistent context assembly</li>     <li>Dashboard session sphere rendering simplified to use deterministic FocusSessionComputer output</li>     <li>Portal window recreated on each show to prevent blank re-display bug</li>     <li>Comprehensive test suite: RightNowInteractor, Presenter, Coordinator, SessionDetector, and MeetingDetection tests</li>   </ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.28.0/Intension-0.28.0.zip"
+          sparkle:edSignature="YuIxqpDn/69qbNp3rIULcJekuJq9bUX8/DB3v5MYcP9J6NasS4wUCnOuWaUW9Mww7YnCSja9EAHLBxFyfVwtBA=="
+          length="19673404"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.27.1</title>
       <sparkle:version>0.27.1</sparkle:version>
       <sparkle:shortVersionString>0.27.1</sparkle:shortVersionString>
