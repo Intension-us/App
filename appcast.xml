@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.28.2</title>
+      <sparkle:version>0.28.2</sparkle:version>
+      <sparkle:shortVersionString>0.28.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 28 Feb 2026 00:55:03 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.28.2</h2><ul>                                <li>Dramatically reduced CPU, GPU, and memory usage by keeping the ML model warm between classifications instead of reloading 4.4GB every 5 minutes</li>     <li>Fixed unnecessary AI reclassifications running even when nothing changed — now only re-classifies when your activity actually shifts</li>                                    <li>Eliminated a burst of rapid retry attempts after waking from sleep that caused temporary high CPU usage</li>     <li>AI inference now pauses when your Mac is thermally throttled or on the lock screen, preserving battery life</li>                                                           </ul>  
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.28.2/Intension-0.28.2.zip"
+          sparkle:edSignature="HZkvwvhUH9MemtSeI7NiDzoY8oRzUvbJZdgpwgjduzaMEosEYr+YVddO8Aq9Yd7Bp0Z3+fA0KeHk3ChZH81MDw=="
+          length="19703424"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.28.1</title>
       <sparkle:version>0.28.1</sparkle:version>
       <sparkle:shortVersionString>0.28.1</sparkle:shortVersionString>
