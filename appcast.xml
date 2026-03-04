@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.29.1</title>
+      <sparkle:version>0.29.1</sparkle:version>
+      <sparkle:shortVersionString>0.29.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 04 Mar 2026 20:27:00 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.29.1</h2>  <ul>                                                                                                                                                                               <li><strong>Better Battery Life</strong> — Intension now uses smart caching and debouncing so AI insights don't regenerate unnecessarily, and background tasks run at lower   priority to save energy.</li>                                                                                                                                                      <li><strong>More Accurate Data</strong> — Fixed timezone issues, corrected weekly averages, and filtered out noise so your focus stats, session counts, and screen time are   all more reliable.</li>                           <li><strong>Attention Rating Chart</strong> — A new chess.com-style rating chart tracks your attention score over time with a rolling average, so you can see your focus   trends at a glance.</li>     <li><strong>Clearer Labels & Language</strong> — Replaced jargony terms: "Elite" is now "Deep Focus", "Peak Chaos" is "High Switching Period", and archetypes got friendlier    names like "Deep Worker" and "Rapid Switcher".</li>     <li><strong>Positive Framing</strong> — Stats now highlight what you achieved (e.g. "26% Deep Focus") instead of what you didn't (e.g. "74% Shallow Sessions").</li>     <li><strong>Simpler Tab Names</strong> — Insight tabs are now just "Timeline", "Focus", and "Patterns" — easier to navigate.</li>     <li><strong>Recovery Cost Card</strong> — A new educational card explains why context switching is costly, backed by research from Gloria Mark.</li>     <li><strong>Data Source Badges</strong> — Each insight now shows whether it's powered by Intension tracking, Screen Time, or both.</li>     <li><strong>Improved Charts</strong> — Heatmaps have a color legend, fragmentation uses clearer stacked bars, and dual-axis charts are properly normalized so comparisons   aren't misleading.</li>     <li><strong>60+ New App Icons & Names</strong> — Added recognition for popular apps like Arc, Raycast, JetBrains IDEs, 1Password, Bear, Craft, Signal, and more.</li>     <li><strong>Smarter AI Insights</strong> — AI-generated text is now shorter (2 sentences max), avoids prescriptive advice, and timestamps adapt to your 12h/24h clock   preference.</li>     <li><strong>Late Night Stats Fixed</strong> — The late night usage card now shows your daily average instead of a cumulative total across the whole range.</li>     <li><strong>Compact Menu Bar Timer</strong> — The menu bar timer is back to its compact format ("5m", "1h 2m") instead of showing extra seconds.</li>     <li><strong>Duplicate Window Prevention</strong> — Opening Intension no longer accidentally creates a second window.</li>   </ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.29.1/Intension-0.29.1.zip"
+          sparkle:edSignature="SPyr3/iWS+3IWpuImei8TBge3sh/3rv1XUl2I1J8tJlnXAGEOR/j1Aiv91LZeimCnjuiPfdDUVRFU2ONVdL6AA=="
+          length="20618606"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.29.0</title>
       <sparkle:version>0.29.0</sparkle:version>
       <sparkle:shortVersionString>0.29.0</sparkle:shortVersionString>
