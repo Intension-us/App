@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.29.0</title>
+      <sparkle:version>0.29.0</sparkle:version>
+      <sparkle:shortVersionString>0.29.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 04 Mar 2026 05:02:38 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.29.0</h2>  <ul>                                                                                                                                                                               <li><strong>Accurate Attention Span:</strong> The median attention span now reflects how long you actually stay on a single window or tab before switching — no more   inflated numbers.</li>                                                                                                                                                             <li><strong>Smarter Data Sources:</strong> Your dashboard uses real-time window tracking, while Insights pulls from your full device activity history for richer,   longer-term trends.</li>                          <li><strong>Session-Level Detail:</strong> Each focus session on the timeline now shows its own median attention span, so you can see which sessions had your deepest   focus.</li>   </ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.29.0/Intension-0.29.0.zip"
+          sparkle:edSignature="ngke+5Tl2X51v4mZ9Oh1sVh0C/hD5A9LPuG+a28jZCxJ7qI/X3WRUw6G2S8V4Ffm0+jFY8AEJ8unmzlcXDzVDw=="
+          length="20474469"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.28.2</title>
       <sparkle:version>0.28.2</sparkle:version>
       <sparkle:shortVersionString>0.28.2</sparkle:shortVersionString>
