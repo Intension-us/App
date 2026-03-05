@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.29.2</title>
+      <sparkle:version>0.29.2</sparkle:version>
+      <sparkle:shortVersionString>0.29.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 05 Mar 2026 04:04:54 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.29.2</h2>  <ul>                                                                                                                                                             <li><b>Live Attention Span</b> — Your menu bar now shows how long you typically focus before switching apps, updated every 15 seconds</li>     <li><b>Trend Arrow</b> — See at a glance if your focus is improving ↑, declining ↓, or holding steady →</li>                                                   <li><b>Smarter during deep focus</b> — The reading holds steady when you're locked into one app instead of disappearing</li>   </ul>   
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.29.2/Intension-0.29.2.zip"
+          sparkle:edSignature="uTw6I3/jin1KBIJuqc1MNlLuc2d0F8ogW4lyE/MizBLM/bU8HFb1X1S59XWl7t+MwPyXfXHzc9cD7dC8xk71DA=="
+          length="20627082"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.29.1</title>
       <sparkle:version>0.29.1</sparkle:version>
       <sparkle:shortVersionString>0.29.1</sparkle:shortVersionString>
