@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.30.0</title>
+      <sparkle:version>0.30.0</sparkle:version>
+      <sparkle:shortVersionString>0.30.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 12 Mar 2026 03:11:50 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.30.0</h2><ul>   <li>Attention Span Dashboard — See your median attention span front and center with a color-coded hero number that shifts from amber to teal as your focus improves</li>   <li>Time Range Selector — Switch between 7-day, 30-day, and 90-day views with smooth animated transitions — sliding picker, morphing numbers, and cross-fading charts</li>   <li>Attention Trend Chart — Daily sparkline showing your attention span over time with trend direction and change summary</li>   <li>Supporting Metrics — Deep work hours, context switching rate, and longest focus session displayed below the chart — tap any metric for details</li>   <li>Parallax Split View — Hero stats on top, session timeline on bottom — tap either half to bring it forward with a depth-layered animation</li>   <li>Guided First-Run Reveal — Animated count-up introduction on your first visit that walks you through your attention data, skippable anytime</li>   <li>New Onboarding Flow — Redesigned 5-step onboarding: understand the problem, accept the invitation, download the ML model, grant permissions, see your first reading</li>   <li>Background Model Download — ML model downloads in the background during onboarding so you're never blocked — progress bubble shows on the dashboard if still in progress</li>   <li>Menu Bar Attention Orb — Tiny color-shifting orb in the menu bar that reflects your current attention span at a glance</li>   <li>Stability & Performance — Fixed timer leaks, eliminated force-unwraps, removed redundant database queries, and resolved task race conditions</li> </ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.30.0/Intension-0.30.0.zip"
+          sparkle:edSignature="XXEuZcgF+ezbRDHTFXnHS/R/px1z1R8oi9X/cOG++FLk2+mlvtE6p2STHwWheyNSzc0VH1VNvn4Ju+hMCFDuDw=="
+          length="21156051"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.29.2</title>
       <sparkle:version>0.29.2</sparkle:version>
       <sparkle:shortVersionString>0.29.2</sparkle:shortVersionString>
