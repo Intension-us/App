@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.30.1</title>
+      <sparkle:version>0.30.1</sparkle:version>
+      <sparkle:shortVersionString>0.30.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Sun, 15 Mar 2026 23:57:40 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.30.1</h2><ul>     <li><strong>Attention metrics explained</strong> — Tap Deep Work, Context Switching, or Longest Focus to see what each metric measures and why it matters</li>     <li><strong>Smarter trend labels</strong> — The chart annotation now shows "Steady" only when your data is genuinely consistent, and "Variable" when there are significant   day-to-day swings</li>     <li><strong>Timeline sphere colors</strong> — Session bubbles now shift from amber (scattered) → teal (moderate) → blue (deep focus) based on your attention span during   that session</li>     <li><strong>Back navigation from Insights</strong> — Added a "← Attention" button at the top of the Shape of Attention view to return to the main attention screen</li>     <li><strong>Auto-expand on session tap</strong> — Tapping a session sphere while the timeline is minimized now automatically expands it so you can see the full detail</li>     <li><strong>Cleaner session detail</strong> — Removed tips and insight text from the session detail popover for a focused, distraction-free view</li>     <li><strong>Grammar fixes</strong> — "1 window tracked" now correctly uses singular/plural form</li>     <li><strong>Simplified baseline message</strong> — While building your baseline, the app now shows "Building your baseline" without a day counter</li>     <li><strong>Removed bottom stats bar</strong> — Cleaned up the tracker dashboard by removing the median attention span cards</li>     <li><strong>Improved time range picker</strong> — The 7d / 30d / 90d buttons are now easier to click with larger tap targets</li>     <li><strong>Fixed tracker rendering</strong> — Resolved an issue where the timeline section could display incorrectly on some configurations</li>   </ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.30.1/Intension-0.30.1.zip"
+          sparkle:edSignature="yXgdNGOAIL9OLyJYUIT9CXbaRBeUr71b3+R16hHZ4loMS3YhoG8s65MJVHSUZYO8ZsXgdgOnAfdfM43/edyOAg=="
+          length="21165030"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.30.0</title>
       <sparkle:version>0.30.0</sparkle:version>
       <sparkle:shortVersionString>0.30.0</sparkle:shortVersionString>
