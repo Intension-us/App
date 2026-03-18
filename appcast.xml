@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.31.0</title>
+      <sparkle:version>0.31.0</sparkle:version>
+      <sparkle:shortVersionString>0.31.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 18 Mar 2026 01:27:47 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.31.0</h2><ul>       <li><strong>Redesigned onboarding</strong> — New guided flow walks you through setup with a personal hook, clear promise, and combined permissions +   model download on a single screen. Your first attention reading now uses real historical data instead of a placeholder.</li>       <li><strong>Timeline shows the last 12 hours by default</strong> — Sessions are larger and easier to read. Labeled time markers every 3 hours ("6 AM",   "9 AM", "12 PM") help you orient at a glance.</li>       <li><strong>Day boundaries on the timeline</strong> — Clear visual gaps between days with date labels ("Tuesday, Mar 4") and session counts so multi-day    scrolling makes sense.</li>       <li><strong>Sphere colors match the menu bar</strong> — Timeline bubbles now use the same dusty red → amber → sage green palette as the menu bar orb, so    colors feel consistent across the app.</li>       <li><strong>Deep focus glow</strong> — Sessions where you held focus above 25 seconds get a subtle outer glow that intensifies with attention depth —   your best sessions stand out.</li>       <li><strong>Smarter session labels</strong> — Fixed an issue where every session was labeled "planning" with identical confidence. Sessions now get   varied, accurate labels like coding, research, communication, or meeting.</li>       <li><strong>Better meeting detection</strong> — Browser-based meetings (Google Meet, Zoom in Chrome) are now correctly identified by window title, not   just app name.</li>       <li><strong>Cleaner menu bar</strong> — Removed app icons from the menu bar for a simpler, less distracting status item. Real-time display now matches   timeline metrics.</li>       <li><strong>Fixed empty timeline bug</strong> — Resolved an issue where the timeline showed no session orbs if the ML model selection was cleared. The   app now auto-recovers.</li>       <li><strong>Accurate 30d/90d metrics</strong> — Long-range metrics now show daily averages instead of cumulative sums, giving you a more meaningful   picture of your attention over time.</li>       <li><strong>Smoother scrolling</strong> — Timeline performance improved dramatically with viewport culling — only visible elements are rendered,   eliminating lag and memory spikes on long timelines.</li>       <li><strong>Headline stays readable</strong> — The attention span number is no longer dimmed during the 7-day baseline period, keeping it legible   against the dark background.</li>       <li><strong>Fixed app hangs</strong> — Resolved three separate causes of 2-second freezes during permission checks and window server calls.</li>       <li><strong>Session detail polish</strong> — Fixed panel alignment, text clipping, background bleed-through, and duplicate information in session detail    popovers.</li>       <li><strong>Parallax animation smoothness</strong> — The hero/tracker split view now animates at a steady 60fps with no jitter.</li>       <li><strong>Onboarding permission fix</strong> — Granting Screen Time permission now correctly returns you to onboarding without requiring a double   grant.</li>   </ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.31.0/Intension-0.31.0.zip"
+          sparkle:edSignature="XvhNKq5WU4fo/yeaxf9TNMIZomX4s3/DC1BUJySNKlqwEY6/QzlRpq6AcMcpPnoDJxB5LYVAcz2H13bhHkUeAg=="
+          length="22125090"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.30.1</title>
       <sparkle:version>0.30.1</sparkle:version>
       <sparkle:shortVersionString>0.30.1</sparkle:shortVersionString>
