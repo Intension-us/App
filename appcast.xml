@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.31.1</title>
+      <sparkle:version>0.31.1</sparkle:version>
+      <sparkle:shortVersionString>0.31.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 19 Mar 2026 03:01:57 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.31.1</h2>  <ul>     <li><strong>Frosted glass onboarding</strong> — The onboarding window now has the same translucent blur as the main app, replacing the flat dark   background.</li>     <li><strong>New app icon</strong> — Fresh icon across all sizes.</li>     <li><strong>Chart labels no longer clipped</strong> — Y-axis labels on the attention chart (0s, 1:40, etc.) are now fully visible.</li>     <li><strong>Time range buttons always work</strong> — The 7d/30d/90d selectors are now responsive even when a session detail is open.</li>     <li><strong>Better meeting detection</strong> — Browser-based meetings (Google Meet, Zoom, Teams in Chrome/Arc/Safari) are now correctly classified   instead of being labeled "unfocused research."</li>     <li><strong>Fixed inflated attention spans</strong> — Session detail no longer shows impossibly high numbers (e.g. 2,046s) for single-window   sessions.</li>     <li><strong>Readable baseline numbers</strong> — The hero attention span is now legible during the 7-day "Building your baseline" phase.</li>     <li><strong>Fixed rare Metal crash</strong> — Resolved a crash caused by concurrent ML inference exceeding GPU resource limits.</li>     <li><strong>Quieter menu bar updates</strong> — Attention span in the menu bar now updates every 30 seconds instead of every second, reducing CPU   overhead.</li>   </ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.31.1/Intension-0.31.1.zip"
+          sparkle:edSignature="+ZdgRs1Su3DDHE3kWXjAqCByK/w8ktvyqEwPK20Z4uBGZUeCn7CTUsKBLRwapMzME9RLPTep/21tqRHX3s4FCA=="
+          length="23453794"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.31.0</title>
       <sparkle:version>0.31.0</sparkle:version>
       <sparkle:shortVersionString>0.31.0</sparkle:shortVersionString>
