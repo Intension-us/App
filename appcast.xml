@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.32.0</title>
+      <sparkle:version>0.32.0</sparkle:version>
+      <sparkle:shortVersionString>0.32.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 20 Mar 2026 20:59:07 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.32.0</h2><ul>       <li><strong>Attention span consistent everywhere</strong> — The number in the menu bar, main app, and onboarding first reading now all come from the   same source of truth. Previously these could show different values.</li>       <li><strong>5 app hang fixes</strong> — Resolved five separate causes of the app freezing for 2+ seconds: cached app name lookups in Screen Time export,    moved JSON decoding and data processing off the main thread, reused DateFormatters instead of re-creating per frame, and moved dictionary construction off   the UI thread.</li>       <li><strong>Removed legacy onboarding</strong> — The old 37-screen onboarding has been removed (~14,000 lines). Only the streamlined 5-screen onboarding    remains.</li>   </ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.32.0/Intension-0.32.0.zip"
+          sparkle:edSignature="5mbF+HwAOKrfan/g98Zq/P3AjnEXrGk4x0tgoLJX52c2vMrR82kROWjOs3vH+rxtcqa97nlgQUAe7jw2/hBEDw=="
+          length="22242413"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.31.1</title>
       <sparkle:version>0.31.1</sparkle:version>
       <sparkle:shortVersionString>0.31.1</sparkle:shortVersionString>
