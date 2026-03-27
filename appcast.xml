@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.33.0</title>
+      <sparkle:version>0.33.0</sparkle:version>
+      <sparkle:shortVersionString>0.33.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 27 Mar 2026 01:20:39 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.33.0</h2><ul>                                                                                                                                                             <li><strong>Onboarding redesign</strong> — Completely redesigned 5-screen onboarding to match the new Figma spec: dark gradient background, per-step CTA   colors, glass morphism cards, new progress bar with colored dots, and a 6-tier attention color scale.</li>                                                       <li><strong>Main screen redesign</strong> — Updated the hero attention span display with the new Figma 6-tier color scale (warm coral → cool blue) and   cleaner typography.</li>                                                                                                                                         <li><strong>Attention span consistent everywhere</strong> — The number in the menu bar, main app, and onboarding first reading now all come from the same   source of truth. Previously these could show different values.</li>                                                                                              <li><strong>5 app hang fixes</strong> — Resolved five separate causes of the app freezing for 2+ seconds: cached app name lookups in Screen Time export,   moved JSON decoding and data processing off the main thread, reused DateFormatters instead of re-creating per frame, and moved dictionary construction off     the UI thread.</li>                                                               <li><strong>Removed legacy onboarding</strong> — The old 37-screen onboarding has been removed (~14,000 lines). Only the streamlined 5-screen onboarding     remains.</li>                                                                                                                                                  </ul>   
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.33.0/Intension-0.33.0.zip"
+          sparkle:edSignature="FbTzVDKhqvEZBIWX2+VEL1kcpU2RS+pT7xkBEDWY3FvNy2QzkhCvrxHoeUNH1ICtAfBJs9jSTyH+UdKyoRNiCQ=="
+          length="25450411"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.32.0</title>
       <sparkle:version>0.32.0</sparkle:version>
       <sparkle:shortVersionString>0.32.0</sparkle:shortVersionString>
