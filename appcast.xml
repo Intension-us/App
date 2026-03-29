@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.33.1</title>
+      <sparkle:version>0.33.1</sparkle:version>
+      <sparkle:shortVersionString>0.33.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Sun, 29 Mar 2026 02:19:43 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.33.1</h2>  <ul>                                                                                                                                                             <li><strong>Full Disk Access setup guide</strong> — New animated step-by-step guide walks you through granting Full Disk Access in System Settings,   required on macOS 26.</li>                                                                                                                                       <li><strong>Menu bar stays visible on crowded menu bars</strong> — When macOS hides the menu bar item due to limited space (e.g., on notched MacBooks),   Intension now automatically switches to a compact icon-only mode so it stays visible.</li>                                                                       <li><strong>Today chart uses 24-hour window</strong> — The Today view now shows hourly data from the last 24 hours instead of calendar-today, so the chart    isn't empty right after midnight.</li>                                                                                                                          <li><strong>Consistent trend directions</strong> — Fixed an issue where the attention trend arrow could point in different directions on different screens    for the same data.</li>                                                                                                                                         <li><strong>ML inference no longer gets stuck</strong> — Added a 60-second timeout to on-device AI generation. Previously, a hung model could permanently   block all ML-powered features until app restart.</li>                                                                                                            <li><strong>Fixed two app crashes</strong> — Resolved a crash when loading the ML model simultaneously from multiple code paths, and a 2-second freeze   when opening Settings (file size calculations now run in the background).</li>                                                                                   <li><strong>Fixed another app freeze</strong> — Calendar timezone lookups that blocked the main thread during daylight saving transitions are now handled   off-thread.</li>                                                                                                                                                 <li><strong>Smarter model prewarming</strong> — The ML model prewarmer now checks if inference is already running before loading, avoiding GPU   contention.</li>                                                                                                                                                 <li><strong>ML model cache recovery</strong> — If macOS purges the model cache, Intension detects it and re-downloads automatically instead of showing   errors.</li>                                                                                                                                                   </ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.33.1/Intension-0.33.1.zip"
+          sparkle:edSignature="MSdCzsmdVdctwNjdERTyTp1qj2G/ZyeKUEmBYIC2QB35XHp+gB8J7vAJPTIS8mEUc4R/jXpVNka5UUzH9D6LDg=="
+          length="25532949"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.33.0</title>
       <sparkle:version>0.33.0</sparkle:version>
       <sparkle:shortVersionString>0.33.0</sparkle:shortVersionString>
