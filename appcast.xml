@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.34.0</title>
+      <sparkle:version>0.34.0</sparkle:version>
+      <sparkle:shortVersionString>0.34.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 07 Apr 2026 02:20:24 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.34.0</h2><ul><li><strong>Session Timeline</strong> — New vertical session list helps you understand your day. Expandable cards showing app-switching activity, icons, and durations all make your data more accessible</li> <li><strong>Chart Gaps</strong> — The Today view now shows gaps in data collection, from say sleep, as a dotted line. Makes it clear when you were on your devices.</li> <li><strong>Metric Explanations</strong> — Do you want to know what the numbers mean, how to change them, and if its good or bad? Tap the new info icon to learn more!</li><li><strong>Setup</strong> — A new setting to launch Intension on bootup. Branded install files and links.</li><li><strong>Performance</strong> — Smoother UI with fewer freezes, more accurate attention scores and session detection.</li></ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.34.0/Intension-0.34.0.zip"
+          sparkle:edSignature="CyzpdBxyk2waVcFnwCdfT8PsTkl+L+lTRVKlFLlPT4SATpyRDv+R5e4wsGMQxQ0T1QTiKLHzIvDdxtuQCibtBg=="
+          length="25743317"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.33.1</title>
       <sparkle:version>0.33.1</sparkle:version>
       <sparkle:shortVersionString>0.33.1</sparkle:shortVersionString>
