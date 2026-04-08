@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.34.1</title>
+      <sparkle:version>0.34.1</sparkle:version>
+      <sparkle:shortVersionString>0.34.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 08 Apr 2026 09:48:13 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.34.1</h2><h3>Attention you can read</h3><p>The hero metric now classifies your attention into four states — <strong>Sustained</strong>, <strong>Engaged</strong>, <strong>Passive</strong>, and <strong>Idle</strong> — instead of raw seconds. Shows up in both the main view and the menu bar.</p><p>The classifier watches keystroke density and app-switching frequency over a 5-minute window. Brief breaks won't knock you down — upgrades are instant, downgrades wait.</p><ul><li><strong>Categorical Attention</strong> — Sustained / Engaged / Passive / Idle replaces the seconds-based hero. Same underlying data, translated into something you can read at a glance.</li><li><strong>State Explainers</strong> — Each state has a one-liner description and an info sheet explaining what Intension detects, how states transition, and how the system behaves.</li><li><strong>Smarter Classification</strong> — Keystroke density + app-switch frequency over a rolling 5-minute window. Asymmetric holdoff: upgrades instantly, downgrades wait 3 minutes.</li><li><strong>Updated Copy</strong> — Sub-metric labels, trend indicators, and info sheets rewritten to describe signals without projecting behavior. Trend-down is blue, never red.</li><li><strong>Readable Info UI</strong> — Explanation text bumped to 13pt for Apple HIG compliance.</li><li><strong>Analytics Foundation</strong> — Tracking events for info button taps, session toggles, and metric detail views.</li><li><strong>Cleanup</strong> — Removed dead trend code, fixed font inconsistencies, quieted debug logging.</li></ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.34.1/Intension-0.34.1.zip"
+          sparkle:edSignature="cXxcLr/woxQOPzqhVsJNbwzUj0G94XHP7b03ZSQ7+J/ZvQ4EYTmsBglJXRIZQC4N8FOIJ5v5lPFntsBIE0fMBQ=="
+          length="25488101"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.34.0</title>
       <sparkle:version>0.34.0</sparkle:version>
       <sparkle:shortVersionString>0.34.0</sparkle:shortVersionString>
