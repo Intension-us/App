@@ -9,6 +9,29 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.35.0</title>
+      <sparkle:version>0.35.0</sparkle:version>
+      <sparkle:shortVersionString>0.35.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 09 Apr 2026 06:10:34 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.35.0</h2><ul>
+<li><strong>Tap to explore your best session</strong> — The "Longest Focus" metric and the best-focus dot on your 7-day and 30-day charts are now tappable. Tap either one and the timeline scrolls to that session and expands it, so you can see what you were doing during your best work.</li>
+<li><strong>Cleaner Today view</strong> — Removed the trending text from the Today view. Trend comparisons need multiple days of context, so Today now stays focused on what's happening right now.</li>
+<li><strong>Session cards show attention quality</strong> — Session cards are now tinted by attention level, matching the color language of the hero metric so your best sessions stand out visually.</li>
+<li><strong>System apps filtered out</strong> — Background processes like loginwindow no longer appear as phantom multi-hour focus sessions. The "Best Session" metric now only reflects real work.</li>
+<li><strong>Faster, fewer hangs</strong> — Fixed 5 reported app-hang issues. The animated logo loads off the main thread, app icons are cached after first load, and system API calls are time-bounded to prevent stalls.</li>
+<li><strong>9 QA fixes</strong> — Improved data accuracy for session durations, chart hover tooltips, and attention score reliability.</li>
+</ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.35.0/Intension-0.35.0.zip"
+          sparkle:edSignature="jAxezvR5Y1clsygCd6d0cvJC6YKgp83P6lF3G9MKWkZjLzpJ+UdHbCkT4zxiW5+72FbYTC0qdqqX6KgVu812Ag=="
+          length="25497740"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.34.1</title>
       <sparkle:version>0.34.1</sparkle:version>
       <sparkle:shortVersionString>0.34.1</sparkle:shortVersionString>
