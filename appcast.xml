@@ -9,6 +9,27 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.35.1</title>
+      <sparkle:version>0.35.1</sparkle:version>
+      <sparkle:shortVersionString>0.35.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 10 Apr 2026 09:41:17 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.35.1</h2><ul>
+<li><strong>Seconds front and center</strong> — The hero metric now shows your attention span in seconds as the primary number, with your state (Sustained, Engaged, etc.) as a badge underneath. Bigger, clearer, more useful at a glance.</li>
+<li><strong>Confidence-aware display</strong> — Intension now knows how confident it is in your attention span. When data is sparse you'll see "Measuring…", then a range like "27–45s", then a precise number as confidence builds. No more showing a number it isn't sure about.</li>
+<li><strong>Tap the chart to explore</strong> — Tap any point on the attention chart and the session list scrolls to that moment. Works across Today, 7-day, and 30-day views.</li>
+<li><strong>Updated menu bar</strong> — The menu bar now shows seconds with confidence display and uses the Intension logo instead of the animated orb.</li>
+</ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.35.1/Intension-0.35.1.zip"
+          sparkle:edSignature="F51B3xDXu9ioysU7WjFccUuTqvSImaExl92L/PIAPhDxeFFHj9OLDJK6OPfSlNdLhCusbp18iMDyu4z1WAkyCA=="
+          length="25585622"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.35.0</title>
       <sparkle:version>0.35.0</sparkle:version>
       <sparkle:shortVersionString>0.35.0</sparkle:shortVersionString>
