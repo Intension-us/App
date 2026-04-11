@@ -9,6 +9,25 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.35.2</title>
+      <sparkle:version>0.35.2</sparkle:version>
+      <sparkle:shortVersionString>0.35.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 11 Apr 2026 11:20:03 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.35.2</h2><ul>
+<li><strong>Smarter session labels</strong> — Sessions now correctly identify what you're actually doing — coding, design, communication, research — instead of most things showing up as "meeting." The app recognizes far more apps out of the box and uses a faster rule-based classifier before falling back to on-device ML.</li>
+<li><strong>New timeline interaction</strong> — Replaced the old split-view with a single smooth scroll surface. Scroll up from the attention hero to browse your full session history. Tighter hero layout with centered numerals and a cleaner attention detail card.</li>
+</ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.35.2/Intension-0.35.2.zip"
+          sparkle:edSignature="zYPd/yiwn7IwLH6gZVb3GqcBXApLzjklsN1supYrSGcD5q+09LD5rQFD4jvmZUrBcXo2aelwh2elfRop6d9hDA=="
+          length="25670064"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.35.1</title>
       <sparkle:version>0.35.1</sparkle:version>
       <sparkle:shortVersionString>0.35.1</sparkle:shortVersionString>
