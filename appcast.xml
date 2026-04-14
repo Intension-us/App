@@ -9,6 +9,26 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.36.0</title>
+      <sparkle:version>0.36.0</sparkle:version>
+      <sparkle:shortVersionString>0.36.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 14 Apr 2026 08:11:18 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.36.0</h2><ul>
+<li><strong>Smarter sessions</strong> — The timeline no longer splits your day into rigid 30-minute blocks. Intension now detects when you actually switch tasks — based on what apps you're using, how long you've been idle, and whether you're in a meeting — and creates sessions that match what you were really doing. All of this runs entirely on your device.</li>
+<li><strong>Live session indicator</strong> — Your current session now appears in the timeline as it happens.</li>
+<li><strong>Stability and polish</strong> — Fixed a handful of rough edges: system processes no longer appear in your top apps, the session list scrolls more smoothly, confidence indicators display correctly, and duplicate model downloads are prevented.</li>
+</ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.36.0/Intension-0.36.0.zip"
+          sparkle:edSignature="iuWYwm2/XxW2ZmBldDW9MulsZgMkiFcLsklVOujAxYbt3TO4KqIw9C7zJO7eFP6H3JhnbqAYJYYiDL2eswhpAw=="
+          length="25903681"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.35.2</title>
       <sparkle:version>0.35.2</sparkle:version>
       <sparkle:shortVersionString>0.35.2</sparkle:shortVersionString>
