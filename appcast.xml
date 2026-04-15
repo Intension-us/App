@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.37.0</title>
+      <sparkle:version>0.37.0</sparkle:version>
+      <sparkle:shortVersionString>0.37.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 15 Apr 2026 20:37:08 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.37.0</h2><ul><li><strong>Cleaner menu bar attention</strong> — The menu bar now stays better aligned with the main app and avoids distracting placeholder text while your data loads.</li><li><strong>Smoother attention updates</strong> — We improved how attention values update across the app so things feel more consistent.</li><li><strong>Small quality fixes</strong> — This release also includes a batch of polish updates across the attention experience.</li></ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.37.0/Intension-0.37.0.zip"
+          sparkle:edSignature="gZcbH5Lhz19ajF1P7bH7KWXGJrOgPprK2+bSOz8JAbnJTopysgWdNwsOrR7oroauMNv3KcYGOsOBmhyqCjXNAw=="
+          length="25929522"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.36.0</title>
       <sparkle:version>0.36.0</sparkle:version>
       <sparkle:shortVersionString>0.36.0</sparkle:shortVersionString>
