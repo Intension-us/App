@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.37.1</title>
+      <sparkle:version>0.37.1</sparkle:version>
+      <sparkle:shortVersionString>0.37.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 16 Apr 2026 08:47:24 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.37.1</h2><ul><li><strong>Better auto-updates</strong> — Intension now installs updates quietly when you quit, and gives gentle reminders when an update is ready.</li><li><strong>Faster return to the present</strong> — If you open an older session and collapse the view, the timeline now jumps back to your current context instead of leaving you stuck mid-list.</li><li><strong>Cleaner attention readouts</strong> — Fixed an edge case where the main attention label could feel out of sync with the number beside it.</li><li><strong>Smarter attention scoring</strong> — We’ve improved the signals behind attention classification so it can better reflect how you’re actually working.</li></ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.37.1/Intension-0.37.1.zip"
+          sparkle:edSignature="N+bf/KHUXLlU1U01OZF6jssHuiGmytqDgOtfmgDsujKpmyQ9cn381L81JtMmn9nxCB0+H46AhoKKkPyyi6tCBA=="
+          length="25964251"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.37.0</title>
       <sparkle:version>0.37.0</sparkle:version>
       <sparkle:shortVersionString>0.37.0</sparkle:shortVersionString>
