@@ -9,6 +9,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.38.0</title>
+      <sparkle:version>0.38.0</sparkle:version>
+      <sparkle:shortVersionString>0.38.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 18 Apr 2026 03:29:43 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.38.0</h2><h2>What's New in 0.38.0</h2><ul><li><strong>Teach Intension what you're doing</strong> — Sessions where Intension is less confident now show a gentle prompt. Tap to confirm or correct the category — your feedback directly improves future classifications.</li><li><strong>Better app recognition</strong> — Intension is now significantly better at matching your apps to the right activity categories. Fewer misclassifications out of the box.</li><li><strong>Improved classification categories</strong> — Reworked how activities are categorized to better reflect how you actually work. Fewer confusing labels, clearer distinctions.</li></ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.38.0/Intension-0.38.0.zip"
+          sparkle:edSignature="uAaLo/FHbC49lVSOnY1rjS3XO6HG8LUL7kpaeQ/F0wFDu1eWqqoS/t6joAsBhitCkELjFqv63SAHffLqhG/OAg=="
+          length="26233282"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.37.1</title>
       <sparkle:version>0.37.1</sparkle:version>
       <sparkle:shortVersionString>0.37.1</sparkle:shortVersionString>
