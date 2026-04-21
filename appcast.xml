@@ -9,6 +9,27 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.39.0</title>
+      <sparkle:version>0.39.0</sparkle:version>
+      <sparkle:shortVersionString>0.39.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 21 Apr 2026 10:13:18 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.39.0</h2><ul>
+<li><strong>Correct any session</strong> — Tap any session to fix its label, not just the ones flagged as low confidence. The correction screen now shows the time range, duration, top apps, and original classification so you can actually remember what you were doing.</li>
+<li><strong>Mouse activity counts</strong> — Multi-screen work with the mouse but no typing no longer reads as "Passive." Mouse engagement is now a real signal in the attention model.</li>
+<li><strong>Smoother session list</strong> — Scroll position stays put when you deselect a session, a new "Jump to Now" button takes you back to the live session, and scrolling is significantly faster with less main-thread blocking.</li>
+<li><strong>Performance</strong> — Raw keystroke and mouse events older than 24 hours are archived automatically, keeping day-to-day reads and writes snappy. Nothing is deleted.</li>
+</ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.39.0/Intension-0.39.0.zip"
+          sparkle:edSignature="fB7ln/YnyFWKE5tBrfmWhQNTZ5nU9gwQpU6hNJnWVj22Rwm3+uKeCcDWo2bgShHl9eR9yZbGNSLS/wLQ+neYDA=="
+          length="26394707"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.38.0</title>
       <sparkle:version>0.38.0</sparkle:version>
       <sparkle:shortVersionString>0.38.0</sparkle:shortVersionString>
