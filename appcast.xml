@@ -1,12 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"
      xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-     xmlns:dc="http://purl.org/dc/elements/1.1/">
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:intension="https://intension.co/xml-namespaces/appcast">
   <channel>
     <title>Intension Updates</title>
     <link>https://raw.githubusercontent.com/Intension-us/App/main/appcast.xml</link>
     <description>Most recent updates for Intension macOS app.</description>
     <language>en</language>
+    <intension:latestVersion>0.40.0</intension:latestVersion>
+    <intension:minimumSupportedVersion>0.40.0</intension:minimumSupportedVersion>
+
+    <item>
+      <title>Version 0.40.0</title>
+      <sparkle:version>0.40.0</sparkle:version>
+      <sparkle:shortVersionString>0.40.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:criticalUpdate sparkle:version="0.40.0"/>
+      <pubDate>Wed, 22 Apr 2026 07:24:49 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.40.0</h2><ul>
+<li><strong>Smarter classifications</strong> — The on-device model now uses more of your device's signals to calibrate confidence and better distinguish between AI assistant apps and coding tools. Sessions that were confidently wrong before should now surface honest uncertainty instead.</li>
+<li><strong>Update reminders</strong> — A gentle banner nudges you when a new version is available, and critical releases get an unskippable prompt. The app also now comes to the front when launched instead of opening behind other windows.</li>
+<li><strong>Sessions end when your Mac sleeps</strong> — Fixed a bug where closing your laptop could produce one giant session spanning the entire time it was asleep.</li>
+<li><strong>ESC to dismiss feedback</strong> — Press Escape to close the session feedback overlay.</li>
+<li><strong>Stability</strong> — Improved data loading for smoother scrolling and fewer hangs in the session list.</li>
+</ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.40.0/Intension-0.40.0.zip"
+          sparkle:edSignature="xroKDv8vsBCh7K1PWgtdgh84QxODbixPr/5vboihAbtjjWxDBSi1SdagHjNgIcz2em9Tt0OGtrAmN8Dix438DQ=="
+          length="26323281"
+          type="application/octet-stream" />
+    </item>
 
     <item>
       <title>Version 0.39.0</title>
