@@ -8,7 +8,27 @@
     <link>https://raw.githubusercontent.com/Intension-us/App/main/appcast.xml</link>
     <description>Most recent updates for Intension macOS app.</description>
     <language>en</language>
-    <intension:latestVersion>0.40.0</intension:latestVersion>
+
+    <item>
+      <title>Version 0.41.0</title>
+      <sparkle:version>0.41.0</sparkle:version>
+      <sparkle:shortVersionString>0.41.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 23 Apr 2026 10:19:41 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.41.0</h2><ul>
+<li><strong>Calendar integration</strong> — Connect your Apple or Google calendar and Intension will tag sessions that overlap with meetings. You can see at a glance whether a session was a meeting or solo work.</li>
+<li><strong>Smarter classifications</strong> — Confidence scores from the on-device model are now better calibrated, so the app only asks you to review a session label when it's genuinely uncertain.</li>
+<li><strong>Better correction suggestions</strong> — When the app does ask for a correction, it now suggests alternatives ranked by an improved on-device model.</li>
+</ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.41.0/Intension-0.41.0.zip"
+          sparkle:edSignature="GkhK/jFURNe/iSMzXB9ic4ddsSELzeaQ0yw654hgLY4UxhYoucaDVGqBREDeTQPOUlwk5MO6o6sQo7myrpNmAQ=="
+          length="27523122"
+          type="application/octet-stream" />
+    </item>
+    <intension:latestVersion>0.41.0</intension:latestVersion>
     <intension:minimumSupportedVersion>0.40.0</intension:minimumSupportedVersion>
 
     <item>
