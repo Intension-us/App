@@ -10,6 +10,26 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.42.0</title>
+      <sparkle:version>0.42.0</sparkle:version>
+      <sparkle:shortVersionString>0.42.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 02 May 2026 09:20:24 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.42.0</h2><h2>What's New in 0.42.0</h2><ul>
+<li><strong>Desktop Focus (alpha)</strong> — Type or speak an intent into the notch and your desktop reconfigures around it: the apps you need come forward, the rest hide. If your attention drifts, Intension catches it within seconds and offers to add the new app or hide it. End the session and your full desktop snaps back exactly as you left it.</li>
+<li><strong>Calendar context</strong> — Connect your Apple or Google calendar and sessions that overlap with meetings get tagged automatically.</li>
+<li><strong>Stability and privacy improvements</strong> — Fixed a bug where sessions did not end overnight or when the computer went to sleep, a few rare crashes, and a stack of smaller fixes around calendar, sessions and classifications.</li>
+</ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.42.0/Intension-0.42.0.zip"
+          sparkle:edSignature="xcq9zKHmnlHHV40tyZSt8CNtN+8Bw6Kv8ospBEUiS3AmMgtTwVhZkMf90rdzH9IUzxlas/QfArq2CjfLEgVMDg=="
+          length="33572141"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.41.0</title>
       <sparkle:version>0.41.0</sparkle:version>
       <sparkle:shortVersionString>0.41.0</sparkle:shortVersionString>
@@ -28,7 +48,7 @@
           length="27523122"
           type="application/octet-stream" />
     </item>
-    <intension:latestVersion>0.41.0</intension:latestVersion>
+    <intension:latestVersion>0.42.0</intension:latestVersion>
     <intension:minimumSupportedVersion>0.40.0</intension:minimumSupportedVersion>
 
     <item>
