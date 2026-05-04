@@ -10,6 +10,27 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.43.0</title>
+      <sparkle:version>0.43.0</sparkle:version>
+      <sparkle:shortVersionString>0.43.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 04 May 2026 08:17:24 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.43.0</h2><h2>What's New in 0.43.0</h2><ul>
+<li><strong>Desktop Focus (alpha)</strong> — Type or speak an intent into the notch and your desktop reconfigures around it: the apps you need come forward, the rest hide. If your attention drifts, Intension catches it within seconds and offers to add the new app or hide it. End the session and your full desktop snaps back exactly as you left it.</li>
+<li><strong>Calendar context</strong> — Connect your Apple or Google calendar and sessions that overlap with meetings get tagged automatically.</li>
+<li><strong>Stability and privacy improvements</strong> — Fixed a bug where sessions did not end overnight or when the computer went to sleep, a few rare crashes, and a stack of smaller fixes around calendar, sessions and classifications.</li>
+<li><strong>Notch design refresh</strong> — Cleaner copy, tighter layout, and a new animated intention vessel that pulses with your live attention.</li>
+</ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.43.0/Intension-0.43.0.zip"
+          sparkle:edSignature="LJPBzPI20zkjDpf157wqatPfG3vUH87pumHO6zYIqGK/sUJMyW/LoQC91IKI/f+cULabNL2XSzGy0+4IisGGBA=="
+          length="33615317"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.42.0</title>
       <sparkle:version>0.42.0</sparkle:version>
       <sparkle:shortVersionString>0.42.0</sparkle:shortVersionString>
@@ -48,7 +69,7 @@
           length="27523122"
           type="application/octet-stream" />
     </item>
-    <intension:latestVersion>0.42.0</intension:latestVersion>
+    <intension:latestVersion>0.43.0</intension:latestVersion>
     <intension:minimumSupportedVersion>0.40.0</intension:minimumSupportedVersion>
 
     <item>
