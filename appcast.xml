@@ -10,6 +10,22 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.44.0</title>
+      <sparkle:version>0.44.0</sparkle:version>
+      <sparkle:shortVersionString>0.44.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 08 May 2026 21:47:24 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.44.0</h2><ul>   <li><strong>Aperture</strong> — When a focus is running, the apps in your focus stay sharp and everything else softens into a tuned   blur. Your screen physically reflects what you said you’d work on. Stray into an off-focus app and the notch surfaces a quick prompt:   add it, set it aside, or dismiss.</li>   <li><strong>The live mark in the notch</strong> — The animated mark now reads at three layers: color shows your real-time attention,   motion shows where it’s heading, and a glowing trim shows how aligned you are with your focus apps.</li>   <li><strong>Restore your desktop</strong> — When you end a focus session, Intension restores your full desktop to the windows and   positions you had before you started. Apps you quit during the session are skipped; new windows you opened mid-session are left   alone.</li>   <li><strong>Accessibility and platform edges</strong> — Reduce Motion turns off the fade. Reduce Transparency skips the blur entirely.   Fullscreen, Spaces, Stage Manager, and system apps like Finder and System Settings all behave properly.</li>   </ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.44.0/Intension-0.44.0.zip"
+          sparkle:edSignature="nD70FfthA9I2MZhRoGgrTGQQuezWBtr0vdVnOX9l3IJpllGXJQ0Fg+FBtGlTIdUkVi2c/BanNNeaJPibEjrpDg=="
+          length="34683701"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.43.0</title>
       <sparkle:version>0.43.0</sparkle:version>
       <sparkle:shortVersionString>0.43.0</sparkle:shortVersionString>
@@ -69,7 +85,7 @@
           length="27523122"
           type="application/octet-stream" />
     </item>
-    <intension:latestVersion>0.43.0</intension:latestVersion>
+    <intension:latestVersion>0.44.0</intension:latestVersion>
     <intension:minimumSupportedVersion>0.40.0</intension:minimumSupportedVersion>
 
     <item>
