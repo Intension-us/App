@@ -10,6 +10,28 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.45.0</title>
+      <sparkle:version>0.45.0</sparkle:version>
+      <sparkle:shortVersionString>0.45.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 14 May 2026 09:51:41 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.45.0</h2><ul>
+<li><strong>iPhone Companion (TestFlight alpha)</strong> — Set an intention from your phone. On your Mac, the focus starts a few seconds later, no tap needed. From your phone you can check your current focus, start and end sessions, and trigger any of the actions the notch would normally help you with. If your Mac is asleep, you can queue a focus to start the moment it wakes. Invite-only on TestFlight — text +1 (215) 669-3076 with your Apple ID to request a code.</li>
+<li><strong>Aperture</strong> — A visual layer that comes alive whenever Desktop Focus is running. The apps in your focus stay sharp; everything else softens into a blur, so your screen reflects what you said you'd work on. The blur fades in smoothly when a session starts and pulls back when it ends, and the background tone subtly shifts as your attention moves. Runs on your primary display.</li>
+<li><strong>Restore your desktop</strong> — When you end a focus session, Intension restores the windows you had open before the focus. Apps you quit during the session are skipped; new windows you opened mid-session are left alone.</li>
+<li><strong>The notch learns from your choices</strong> — The notch is smarter about when to interrupt you and when to stay out of the way. Each choice you make about pulling apps into a focus or setting them aside trains a model that personalizes Desktop Focus over time. When you stray outside your focus apps, a soft amber edge now glows at the perimeter of your screen as a peripheral nudge.</li>
+<li><strong>Stability across the focus surface</strong> — Fixes around notch transitions, interactions with Stage Manager, better multi-display support, and session boundary handling.</li>
+</ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.45.0/Intension-0.45.0.zip"
+          sparkle:edSignature="P/IA4c7ZW5cbU0JxHttXq9GaPAEadUCWPskovV/fELq8xuGchbkQOlAXSstNbz6EUs5txYIYq7kRv2HA+eN6AA=="
+          length="35772700"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.44.0</title>
       <sparkle:version>0.44.0</sparkle:version>
       <sparkle:shortVersionString>0.44.0</sparkle:shortVersionString>
@@ -85,7 +107,7 @@
           length="27523122"
           type="application/octet-stream" />
     </item>
-    <intension:latestVersion>0.44.0</intension:latestVersion>
+    <intension:latestVersion>0.45.0</intension:latestVersion>
     <intension:minimumSupportedVersion>0.40.0</intension:minimumSupportedVersion>
 
     <item>
