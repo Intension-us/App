@@ -10,6 +10,30 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.46.0</title>
+      <sparkle:version>0.46.0</sparkle:version>
+      <sparkle:shortVersionString>0.46.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 21 May 2026 20:36:13 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.46.0</h2><ul>
+<li style="margin-bottom: 12px;"><strong>New attention dashboard</strong> — Your dashboard now organizes attention into four measured states: Deep, Active, Light, and Quiet. The live hero mark stays fast and current while the ambient background reflects the slower context of your session, so the two can move at their own pace. When data is missing or partial, the dashboard shows that honestly instead of guessing.</li>
+
+<li style="margin-bottom: 12px;"><strong>Stay Focused</strong> — When Desktop Focus is running, the Dock and menu bar gently fade out of the way. They come back when you end the session. (macOS may ask once for permission to manage Dock and menu bar visibility.)</li>
+
+<li style="margin-bottom: 12px;"><strong>Quieter ambient cues</strong> — The amber edge no longer fires for brief outside detours like a quick Slack check. Actionable drift proposals on the notch now pulse so you don't miss them.</li>
+
+<li><strong>Smoother Aperture</strong> — Starting and ending a Desktop Focus is now a single, smooth transition. A gentle blur previews while you set up in the notch, eases in as the focus begins, and gracefully reveals your desktop again when you end. Consistent whether you started on your Mac or your iPhone.</li>
+</ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.46.0/Intension-0.46.0.zip"
+          sparkle:edSignature="1GF5Gope80qNu04D/5iZduZA4a18GjuhyKZDGGmoUcDUb4b7Cki3XHl99IrOn19q6/id9UXjiPNQk2UkLGfZDw=="
+          length="39943705"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.45.0</title>
       <sparkle:version>0.45.0</sparkle:version>
       <sparkle:shortVersionString>0.45.0</sparkle:shortVersionString>
@@ -107,7 +131,7 @@
           length="27523122"
           type="application/octet-stream" />
     </item>
-    <intension:latestVersion>0.45.0</intension:latestVersion>
+    <intension:latestVersion>0.46.0</intension:latestVersion>
     <intension:minimumSupportedVersion>0.40.0</intension:minimumSupportedVersion>
 
     <item>
