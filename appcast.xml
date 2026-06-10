@@ -10,6 +10,32 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.47.0</title>
+      <sparkle:version>0.47.0</sparkle:version>
+      <sparkle:shortVersionString>0.47.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 10 Jun 2026 09:33:05 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.47.0</h2><ul>
+  <li style="margin-bottom: 12px;"><strong>Brand-new onboarding</strong> — Setting up Intension is now a full-screen experience that explains what the app is doing, why each permission matters, and how the iPhone companion fits in. It also brings the new visual language into onboarding itself.</li>
+
+  <li style="margin-bottom: 12px;"><strong>Easier iPhone companion access</strong> — Onboarding now makes it easier to request the TestFlight for the iPhone companion when you&#39;re ready, without needing a manual back-and-forth with us.</li>
+
+  <li style="margin-bottom: 12px;"><strong>Better permission handling</strong> — Accessibility, Full Disk Access, model download, and returning setup states are handled more gracefully, especially if you&#39;ve already granted something or come back later.</li>
+
+  <li style="margin-bottom: 12px;"><strong>Smoother Aperture</strong> — Aperture now flows as one continuous motion from preview into Focus Protection, with gentler easing and cleaner state changes.</li>
+
+  <li><strong>More reliable Focus Protection recovery</strong> — If Focus Protection tucks your Dock or menu bar away, we&#39;ve improved the reliability of bringing them back when Focus ends, even if something interrupted the session partway through.</li>
+</ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.47.0/Intension-0.47.0.zip"
+          sparkle:edSignature="6qSeXibXbFxr++txxeb0woA7gE+EvSTRw7S+jqqp70pfNAWPIF/5vxRKXIJhtvQFpcbsYoO0lkGeUU6d0UrtCg=="
+          length="48750440"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.46.0</title>
       <sparkle:version>0.46.0</sparkle:version>
       <sparkle:shortVersionString>0.46.0</sparkle:shortVersionString>
@@ -131,7 +157,7 @@
           length="27523122"
           type="application/octet-stream" />
     </item>
-    <intension:latestVersion>0.46.0</intension:latestVersion>
+    <intension:latestVersion>0.47.0</intension:latestVersion>
     <intension:minimumSupportedVersion>0.40.0</intension:minimumSupportedVersion>
 
     <item>
