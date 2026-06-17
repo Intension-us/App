@@ -10,6 +10,30 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.48.0</title>
+      <sparkle:version>0.48.0</sparkle:version>
+      <sparkle:shortVersionString>0.48.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 17 Jun 2026 07:02:18 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.48.0</h2><ul>
+  <li style="margin-bottom: 12px;"><strong>Activity titles that actually say what you&#39;re doing</strong> — This is the change you&#39;ll notice most. Instead of a generic "Coding…" or "Writing" over and over, activities now describe what&#39;s actually happening: "Design work in Figma," "Messaging in Slack," "Development work in Ghostty," or "Light activity in FaceTime."</li>
+
+  <li style="margin-bottom: 12px;"><strong>Everything stays in sync</strong> — We rebuilt how the dashboard reads and shares its data, so the live view, the timeline, and the notch always agree. A number you see in one place now matches everywhere else, and the details line up with their summaries instead of drifting apart.</li>
+
+  <li style="margin-bottom: 12px;"><strong>A steadier read</strong> — Your attention state no longer flashes a quick guess at startup before it&#39;s sure; it waits until it actually has something to show. Hours that haven&#39;t happened yet stay empty instead of showing stale data.</li>
+
+  <li><strong>A calmer notch</strong> — The notch no longer flickers when a focus ends, and it won&#39;t wipe out what you&#39;re typing if something updates mid-thought.</li>
+</ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.48.0/Intension-0.48.0.zip"
+          sparkle:edSignature="SDkuqmDpU0QYkBLJomPIWX70QTYDHkJ2VGiUlDYhIrOAcJOHExmG6Qz4XeWAi/tZXEoUSIlhga2I7Z32lSrEDg=="
+          length="49421034"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.47.0</title>
       <sparkle:version>0.47.0</sparkle:version>
       <sparkle:shortVersionString>0.47.0</sparkle:shortVersionString>
@@ -157,7 +181,7 @@
           length="27523122"
           type="application/octet-stream" />
     </item>
-    <intension:latestVersion>0.47.0</intension:latestVersion>
+    <intension:latestVersion>0.48.0</intension:latestVersion>
     <intension:minimumSupportedVersion>0.40.0</intension:minimumSupportedVersion>
 
     <item>
