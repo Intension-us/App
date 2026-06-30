@@ -10,6 +10,32 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.49.0</title>
+      <sparkle:version>0.49.0</sparkle:version>
+      <sparkle:shortVersionString>0.49.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 30 Jun 2026 06:03:14 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.49.0</h2><ul>
+  <li style="margin-bottom: 12px;"><strong>A truer attention span</strong> — Your hero metric now shows your attention span instead of the old context-switch count, measured by task rather than by single screen: how long you stay with something before you really switch, even across a few apps. It matches how attention and context-switching actually feel.</li>
+
+  <li style="margin-bottom: 12px;"><strong>Onboarding that teaches you the app</strong> — In addition to a brand new experience, onboarding now teaches you what Intension does and how to use it. Already set up? You can still see it by going to the Menu bar icon → Debug → Reset Onboarding.</li>
+
+  <li style="margin-bottom: 12px;"><strong>The breadth of your focus</strong> — The live view now shows how many apps you&#39;re working across, so you can see at a glance whether you&#39;re locked in or spread thin.</li>
+
+  <li style="margin-bottom: 12px;"><strong>Smarter about time away</strong> — When your Mac sleeps or locks because you stepped away, your timeline now reflects that instead of stretching your last activity across those empty hours.</li>
+
+  <li><strong>Fixes and refinements</strong> — A batch of smaller bug fixes and stability improvements, including an annoying blur at the top of a Desktop Focus session.</li>
+</ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.49.0/Intension-0.49.0.zip"
+          sparkle:edSignature="ITJN5Y0OfepsR2L13LLzZu6eP4h+L6CQB9QhQ0DGv6DMf6hfzF+FuY6VxqjwDJrV1/CTZfS6sIyHiaoZkjEHCg=="
+          length="51075459"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.48.0</title>
       <sparkle:version>0.48.0</sparkle:version>
       <sparkle:shortVersionString>0.48.0</sparkle:shortVersionString>
@@ -181,7 +207,7 @@
           length="27523122"
           type="application/octet-stream" />
     </item>
-    <intension:latestVersion>0.48.0</intension:latestVersion>
+    <intension:latestVersion>0.49.0</intension:latestVersion>
     <intension:minimumSupportedVersion>0.40.0</intension:minimumSupportedVersion>
 
     <item>
