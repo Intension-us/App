@@ -10,6 +10,28 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.50.0</title>
+      <sparkle:version>0.50.0</sparkle:version>
+      <sparkle:shortVersionString>0.50.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 08 Jul 2026 01:23:11 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.50.0</h2><ul>
+  <li style="margin-bottom: 12px;"><strong>See where your day is headed</strong> — Intension now projects the rest of your day from your history and what you&#39;ve done so far today. Flip from your dashboard to the new Forecast to see your day drawn against the shape of a typical day, with a marker for right now and a sense of when you tend to drop into deep focus. It&#39;s an early look that gets sharper as it learns your patterns.</li>
+
+  <li style="margin-bottom: 12px;"><strong>Report a bug without leaving the app</strong> — Hit a glitch? Open Connectors and tap Report Bug to send the details, including a privacy-scrubbed diagnostic log and an optional screenshot.</li>
+
+  <li><strong>Fixes and refinements</strong> — More accurate handling of untracked and away time on your timeline, faster loads, and a batch of smaller stability improvements and bug fixes.</li>
+</ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.50.0/Intension-0.50.0.zip"
+          sparkle:edSignature="D/dwO2xwn3jKAJSQaTOfTTAPzlFPAApo71en8cv0RwiBxIzSRvhXqs1CQ6Q9CcYdj6mHmvTntXE+zvUHVMI+Cw=="
+          length="52247373"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.49.0</title>
       <sparkle:version>0.49.0</sparkle:version>
       <sparkle:shortVersionString>0.49.0</sparkle:shortVersionString>
@@ -207,7 +229,7 @@
           length="27523122"
           type="application/octet-stream" />
     </item>
-    <intension:latestVersion>0.49.0</intension:latestVersion>
+    <intension:latestVersion>0.50.0</intension:latestVersion>
     <intension:minimumSupportedVersion>0.40.0</intension:minimumSupportedVersion>
 
     <item>
