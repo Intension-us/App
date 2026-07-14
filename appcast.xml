@@ -10,6 +10,32 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.51.0</title>
+      <sparkle:version>0.51.0</sparkle:version>
+      <sparkle:shortVersionString>0.51.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 14 Jul 2026 09:42:53 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.51.0</h2><ul>
+  <li style="margin-bottom: 12px;"><strong>A rebuilt notch experience</strong> — The notch has a new look end to end: starting a focus, the live session, recaps, and proposals were all redesigned, and the collapsed notch now glows with a tint that follows your live attention.</li>
+
+  <li style="margin-bottom: 12px;"><strong>Dig into your Forecast</strong> — The stat cards are now interactive: click "Focused so far," "Longest stretch," or "Attention span" to open a full detail view in place, with distributions, breakdowns, and your real session timeline. The current hour draws from live data, and switching between Dashboard and Forecast is a single toggle.</li>
+
+  <li style="margin-bottom: 12px;"><strong>Clearer session labels</strong> — Session descriptions now read as plain statements of what you were doing. Labeling also ignores the lock screen and see-through system windows, so your sessions reflect your actual work.</li>
+
+  <li style="margin-bottom: 12px;"><strong>Lighter on your battery</strong> — Intension now runs session classification on your Mac&#39;s energy-efficient Neural Engine after a one-time background model download, re-classifies only when your activity actually changed, and loads your history faster.</li>
+
+  <li><strong>Fixes and refinements</strong> — A batch of smaller bug fixes and stability improvements, including a fix for the full-screen blur that could occasionally get stuck after returning from the desktop.</li>
+</ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.51.0/Intension-0.51.0.zip"
+          sparkle:edSignature="/Sa46vhJbBfKoLf5uIHtTiycOT67kTbJ9hQn4dC8GD04lvXKqEk53W6BARJbBLEYMWTMGREDidBNIbKZE614AA=="
+          length="49790280"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.50.0</title>
       <sparkle:version>0.50.0</sparkle:version>
       <sparkle:shortVersionString>0.50.0</sparkle:shortVersionString>
@@ -229,7 +255,7 @@
           length="27523122"
           type="application/octet-stream" />
     </item>
-    <intension:latestVersion>0.50.0</intension:latestVersion>
+    <intension:latestVersion>0.51.0</intension:latestVersion>
     <intension:minimumSupportedVersion>0.40.0</intension:minimumSupportedVersion>
 
     <item>
