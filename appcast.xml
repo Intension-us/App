@@ -10,6 +10,34 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.52.0</title>
+      <sparkle:version>0.52.0</sparkle:version>
+      <sparkle:shortVersionString>0.52.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Sun, 02 Aug 2026 02:41:07 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.52.0</h2><p style="margin-bottom: 12px;">We are excited to share an early version of Intension&#39;s Personal Model — a first look at the power of your own data. Starting with this version, Intension can be reached directly from Codex and Claude Code, making your data far more available where you actually work. You can ask about your time, topics, behavior — or even open-ended questions like "What would my Intension data add to this?" The best parts of the current experience will find their way back into the app over time, but if you find yourself missing something, let us know.</p>
+
+<p style="margin-bottom: 12px;">More than anything, we want to hear what you discover — the value you find in your data, and any opportunities or issues you run into. Please share feedback via the in-app button on the bottom left, or simply email us at hello@intension.us.</p>
+
+<ul>
+  <li style="margin-bottom: 12px;"><strong>Meet your Personal Model</strong> — Intension now builds a Personal Model on your Mac from the sources you choose to connect. Create it, name it, and land on a new Home that, once your sources are connected, shows relevant activity from them.</li>
+
+  <li style="margin-bottom: 12px;"><strong>A first run built around your model</strong> — A new onboarding gets you set up: choose your sources, grant access, and name your model. Your Personal Model will explore your usage patterns to get a better sense of how you use AI.</li>
+
+  <li style="margin-bottom: 12px;"><strong>Use it from Claude Code and Codex</strong> — Ask the tools you already use to inspect what context is available through Intension, answer questions that context can support, or teach it an exact statement you provide. Intension prioritizes what you teach over what it has passively observed.</li>
+
+  <li><strong>See recent agent use</strong> — When Claude Code or Codex actually uses Intension data or skills, that use appears in Activity after Intension processes the record and the app refreshes. Loading the skill by itself does not count as use.</li>
+</ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.52.0/Intension-0.52.0.zip"
+          sparkle:edSignature="2IOc+fl+4wvdgWFxwdTmY0EKCnrFNaQdT67M5+n5enpdqsah8Q4ynOYHMOs5HpqsQwSSmY7FObVwTKqH28AeBA=="
+          length="64880573"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.51.0</title>
       <sparkle:version>0.51.0</sparkle:version>
       <sparkle:shortVersionString>0.51.0</sparkle:shortVersionString>
@@ -255,7 +283,7 @@
           length="27523122"
           type="application/octet-stream" />
     </item>
-    <intension:latestVersion>0.51.0</intension:latestVersion>
+    <intension:latestVersion>0.52.0</intension:latestVersion>
     <intension:minimumSupportedVersion>0.40.0</intension:minimumSupportedVersion>
 
     <item>
