@@ -10,6 +10,29 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.53.0</title>
+      <sparkle:version>0.53.0</sparkle:version>
+      <sparkle:shortVersionString>0.53.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 10 Aug 2026 15:50:15 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.53.0</h2><p style="margin-bottom: 12px;">Personal Model is a new starting point. It uses the context you already create across your devices and AI tools to start forming a model you own. This release gets you started; the model will improve over time.</p>
+<ul>
+  <li style="margin-bottom: 12px;"><strong>Start with your own model</strong> — Connect the sources you choose, form your Personal Model, name it, and land on Home.</li>
+  <li style="margin-bottom: 12px;"><strong>A first learning pass you begin</strong> — Answer four short questions and add an optional note to shape your model before you name it.</li>
+  <li style="margin-bottom: 12px;"><strong>See what is taking shape</strong> — Read grounded reflections and correct them when they miss.</li>
+  <li style="margin-bottom: 12px;"><strong>Turn learning into a skill</strong> — A suggested skill shows its reason, what changes, which agent it targets, the instructions, and a write receipt with Undo.</li>
+  <li><strong>A bounded first step</strong> — The model will not understand everything at once, and every source will not produce an insight immediately.</li>
+</ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.53.0/Intension-0.53.0.zip"
+          sparkle:edSignature="oH6Pyg9d5++MXuO3Y9RX+9Hym3G3MRyRY4rd4klOBVnRjYhxI4KgacAUIKmneSoyiJePb4P5eZcgFLeVUmb2Dw=="
+          length="74909535"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.52.0</title>
       <sparkle:version>0.52.0</sparkle:version>
       <sparkle:shortVersionString>0.52.0</sparkle:shortVersionString>
@@ -283,7 +306,7 @@
           length="27523122"
           type="application/octet-stream" />
     </item>
-    <intension:latestVersion>0.52.0</intension:latestVersion>
+    <intension:latestVersion>0.53.0</intension:latestVersion>
     <intension:minimumSupportedVersion>0.40.0</intension:minimumSupportedVersion>
 
     <item>
