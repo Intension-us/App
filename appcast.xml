@@ -10,6 +10,30 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.53.1</title>
+      <sparkle:version>0.53.1</sparkle:version>
+      <sparkle:shortVersionString>0.53.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 11 Aug 2026 23:33:03 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.53.1</h2><ul>
+  <li style="margin-bottom: 12px;"><strong>Bring your AI context with you</strong> — Paste what another AI knows about you, review it before saving, and add multiple responses without accidental submissions.</li>
+
+  <li style="margin-bottom: 12px;"><strong>Teach your model in one flow</strong> — Answer up to five short questions without returning Home after each one. When you finish, your model clearly lets you know it&#39;s learning more.</li>
+
+  <li style="margin-bottom: 12px;"><strong>A smoother first experience</strong> — Your model reveal now flows naturally into Home, with a living orbit and a steady Intension mark.</li>
+
+  <li><strong>Fixes and refinements</strong> — Copy, paste, select all, and text editing now work like standard Mac controls. Long imports remain usable, and Personal Model helpers recover cleanly when needed.</li>
+</ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.53.1/Intension-0.53.1.zip"
+          sparkle:edSignature="7w9R0p1Pq1sN52N6yEHJlN23lQ7GqOU3DnXscqTLQ6EBwCHrD8flLdPrJcn6iQQ9qxCtRUSu1HsIhIkv6TYOAQ=="
+          length="74976353"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.53.0</title>
       <sparkle:version>0.53.0</sparkle:version>
       <sparkle:shortVersionString>0.53.0</sparkle:shortVersionString>
@@ -306,7 +330,7 @@
           length="27523122"
           type="application/octet-stream" />
     </item>
-    <intension:latestVersion>0.53.0</intension:latestVersion>
+    <intension:latestVersion>0.53.1</intension:latestVersion>
     <intension:minimumSupportedVersion>0.40.0</intension:minimumSupportedVersion>
 
     <item>
