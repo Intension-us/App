@@ -10,6 +10,29 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.53.2</title>
+      <sparkle:version>0.53.2</sparkle:version>
+      <sparkle:shortVersionString>0.53.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <intension:sourceRevision>40a2f9905aec3f51bbccf76fd1ab0a44720ab8a1</intension:sourceRevision>
+      <intension:sourceTree>5ed27dcee6d903285cc4a8219fd208b9df252c88</intension:sourceTree>
+      <intension:artifactSHA256>21dcf3bcece6c4cd43a58ad4d0a28c09e664c3aa73e7db12859b0f31969c2906</intension:artifactSHA256>
+      <intension:releaseNotesSHA256>636cc7417d251460b6fee5321f7f8e1971b7bd54edb0166c52dd6c4565270fdd</intension:releaseNotesSHA256>
+      <intension:bumpMinimumSupportedVersion>false</intension:bumpMinimumSupportedVersion>
+      <pubDate>Wed, 12 Aug 2026 21:43:18 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.53.2</h2><ul>
+  <li><strong>Fixes and refinements</strong> — Personal Model setup now accepts complete names without interrupting typing, and Review opens directly to available questions while saving each answer before moving on.</li>
+</ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.53.2/Intension-0.53.2.zip"
+          sparkle:edSignature="xodIc14E6BEu3ISoAd10ipw/n1o6uq3yjduOsBqFlybhAVXIWjz6P+rfDi6+L5smKcXPctgTfYlle9GOXuGVCQ=="
+          length="74980499"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.53.1</title>
       <sparkle:version>0.53.1</sparkle:version>
       <sparkle:shortVersionString>0.53.1</sparkle:shortVersionString>
@@ -330,7 +353,7 @@
           length="27523122"
           type="application/octet-stream" />
     </item>
-    <intension:latestVersion>0.53.1</intension:latestVersion>
+    <intension:latestVersion>0.53.2</intension:latestVersion>
     <intension:minimumSupportedVersion>0.40.0</intension:minimumSupportedVersion>
 
     <item>
