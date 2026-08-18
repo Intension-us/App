@@ -10,6 +10,27 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.54.0</title>
+      <sparkle:version>0.54.0</sparkle:version>
+      <sparkle:shortVersionString>0.54.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <intension:sourceRevision>b79b56d2568cbb14aa5ddab96844f1b0270acf65</intension:sourceRevision>
+      <intension:sourceTree>179ab9f1f70bef8397aa727f307e8158e28e4301</intension:sourceTree>
+      <intension:artifactSHA256>902e1d14e94ddf831b72e78edbd040161395700ab352201b9848909907f4fbbc</intension:artifactSHA256>
+      <intension:releaseNotesSHA256>60571adf60a6c68f362af7cd6c01012ec8b50f2d286b2abe3109c38140f626ac</intension:releaseNotesSHA256>
+      <intension:bumpMinimumSupportedVersion>false</intension:bumpMinimumSupportedVersion>
+      <pubDate>Tue, 18 Aug 2026 20:22:28 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.54.0</h2><ul><li style="margin-bottom: 12px;"><strong>More useful Recipes</strong> — Upgrade My Stack now uses your Personal Model and the tools already on your Mac to suggest relevant apps, workflows, skills, plugins, and MCP connections, with a clearer reason and next step.</li><li style="margin-bottom: 12px;"><strong>Smarter on-device handling</strong> — Personal Model learning and Recipe matching happen on your Mac, keeping your work context local while Intension decides what may help.</li><li style="margin-bottom: 12px;"><strong>A foundation that adapts to you</strong> — Recipes and Teach now share more Personal Model context, laying the groundwork for customized Recipes and skills for each person.</li><li><strong>Fixes and refinements</strong> — A more coherent Home, Recipes, Teach, and Settings experience, clearer recommendation actions, better empty states, smoother navigation, and polish throughout.</li></ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.54.0/Intension-0.54.0.zip"
+          sparkle:edSignature="3eT4aZ8rhJy9srf5tZhClFMVhKSqlf0x9xaYXdFVVGKMAxP+n9OHgyQwWff7oqNVG2qbVnR93Wk51OYzcK0vAg=="
+          length="77471264"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.53.2</title>
       <sparkle:version>0.53.2</sparkle:version>
       <sparkle:shortVersionString>0.53.2</sparkle:shortVersionString>
@@ -353,7 +374,7 @@
           length="27523122"
           type="application/octet-stream" />
     </item>
-    <intension:latestVersion>0.53.2</intension:latestVersion>
+    <intension:latestVersion>0.54.0</intension:latestVersion>
     <intension:minimumSupportedVersion>0.40.0</intension:minimumSupportedVersion>
 
     <item>
