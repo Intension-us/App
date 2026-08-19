@@ -10,6 +10,27 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.54.1</title>
+      <sparkle:version>0.54.1</sparkle:version>
+      <sparkle:shortVersionString>0.54.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <intension:sourceRevision>1310732cc371623c10924b288ea153c35000f3bc</intension:sourceRevision>
+      <intension:sourceTree>d4928d5eb7c1d8c99d5953044009af30828089e2</intension:sourceTree>
+      <intension:artifactSHA256>6d50694d89926551bfb7f7b9313d17a3db309e621481b2d7c8ed97e300f01e35</intension:artifactSHA256>
+      <intension:releaseNotesSHA256>1b2185ddba1e6276b898639b79798d04e2042d9920a05844678eed7267ebfe95</intension:releaseNotesSHA256>
+      <intension:bumpMinimumSupportedVersion>false</intension:bumpMinimumSupportedVersion>
+      <pubDate>Wed, 19 Aug 2026 21:25:13 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.54.1</h2><ul><li>Fixed first-time Qwen setup for Recipes so interrupted downloads recover cleanly and the app explains what is happening.</li></ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.54.1/Intension-0.54.1.zip"
+          sparkle:edSignature="Zke+nqqLizcSoAuTGQ18ztJKSxcwJgU2d0rkjQMcZ1/ArN97W0VD5g4jW/I79JyDttRxGhH8QPHlbPh0/yEjAA=="
+          length="77556120"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.54.0</title>
       <sparkle:version>0.54.0</sparkle:version>
       <sparkle:shortVersionString>0.54.0</sparkle:shortVersionString>
@@ -374,7 +395,7 @@
           length="27523122"
           type="application/octet-stream" />
     </item>
-    <intension:latestVersion>0.54.0</intension:latestVersion>
+    <intension:latestVersion>0.54.1</intension:latestVersion>
     <intension:minimumSupportedVersion>0.40.0</intension:minimumSupportedVersion>
 
     <item>
