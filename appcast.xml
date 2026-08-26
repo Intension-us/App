@@ -10,6 +10,37 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.55.0</title>
+      <sparkle:version>0.55.0</sparkle:version>
+      <sparkle:shortVersionString>0.55.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <intension:sourceRevision>3d5d01b41f06b3a55835d5e6fa50a59013cafb96</intension:sourceRevision>
+      <intension:sourceTree>7a85bd8ccba5f0bef79650a47fc3dc1b42e5d82b</intension:sourceTree>
+      <intension:artifactSHA256>991d7de84c89ad127c7d0e445801d41144998931b59911b2562655a645745039</intension:artifactSHA256>
+      <intension:releaseNotesSHA256>11bb0c1f4df21f81c6f01f53baf34d4fae388f641ab6a8fe2703341296d08e72</intension:releaseNotesSHA256>
+      <intension:bumpMinimumSupportedVersion>false</intension:bumpMinimumSupportedVersion>
+      <pubDate>Wed, 26 Aug 2026 21:35:51 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.55.0</h2><ul>
+  <li style="margin-bottom: 12px;"><strong>Qwen3 on supported Macs</strong> — Intension now downloads and selects Qwen3 4B once on Apple Silicon Macs with at least 8 GB of memory. A model you choose afterward remains your choice.</li>
+
+  <li style="margin-bottom: 12px;"><strong>A Personal Model you can see</strong> — Your model now has a consistent visual identity across Home, onboarding, and Recipes, shaped by the name you give it and the sources connected to it.</li>
+
+  <li style="margin-bottom: 12px;"><strong>Add your own Recipes</strong> — Choose or drop a Markdown Recipe in the new import screen. Intension calls out files and sources that this version does not support.</li>
+
+  <li style="margin-bottom: 12px;"><strong>Clearer Recipe results</strong> — Results lead with the answer and next step, show the evidence behind them, and tell you when the available information is old or incomplete.</li>
+
+  <li><strong>Fixes and refinements</strong> — More reliable model downloads, saved Recipe runs, complete model-name entry after resetting onboarding, and more consistent Personal Model visuals throughout the app.</li>
+</ul>
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.55.0/Intension-0.55.0.zip"
+          sparkle:edSignature="lNYSnhgoWoS8bjYZ6oMRtMOUEJqKSdiFmOel582o+n9pRDgTLGqu2KCrEG8RrsAYVyHQW46sFA/iK4qjHJUCBw=="
+          length="79252619"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.54.1</title>
       <sparkle:version>0.54.1</sparkle:version>
       <sparkle:shortVersionString>0.54.1</sparkle:shortVersionString>
@@ -395,7 +426,7 @@
           length="27523122"
           type="application/octet-stream" />
     </item>
-    <intension:latestVersion>0.54.1</intension:latestVersion>
+    <intension:latestVersion>0.55.0</intension:latestVersion>
     <intension:minimumSupportedVersion>0.40.0</intension:minimumSupportedVersion>
 
     <item>
