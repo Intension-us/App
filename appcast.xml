@@ -10,6 +10,40 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.56.0</title>
+      <sparkle:version>0.56.0</sparkle:version>
+      <sparkle:shortVersionString>0.56.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <intension:sourceRevision>fc30f73804441ee219fd01eb7a676dd09d21b81d</intension:sourceRevision>
+      <intension:sourceTree>d531b75eae89c1aea1d13aabfd031330c92b70bc</intension:sourceTree>
+      <intension:artifactSHA256>116204022b6cf45eddaedc58e7e0bb0416539e7786ed536908e4dbce5e6d8e96</intension:artifactSHA256>
+      <intension:releaseNotesSHA256>75514651e6e06b315500c59da468bd29baa722798d45d59d2f7c5dcba060f6e5</intension:releaseNotesSHA256>
+      <intension:bumpMinimumSupportedVersion>false</intension:bumpMinimumSupportedVersion>
+      <pubDate>Tue, 15 Sep 2026 15:33:29 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.56.0</h2><ul>
+  <li style="margin-bottom: 12px;"><strong>Activity</strong> — A new place to read what you actually worked on. Each stretch of work gets a short account you can expand to see the real sources behind it, and Home shows your latest entry. Activity keeps updating while Intension stays open, and covers the last 24 hours rather than a calendar day, so late-night work stays together.</li>
+
+  <li style="margin-bottom: 12px;"><strong>Claude Code and Codex in Activity</strong> — Sessions with your coding agents appear in the timeline, named by agent, alongside the apps you were in.</li>
+
+  <li style="margin-bottom: 12px;"><strong>Qwen3.5 for Recipes</strong> — On Apple Silicon Macs with at least 8 GB of memory, Intension downloads Qwen3.5 4B in the background and switches to it once. A model you choose afterward remains your choice.</li>
+
+  <li style="margin-bottom: 12px;"><strong>Recipes that feel like yours</strong> — Recipe screens now carry your Personal Model's look from Home, and an imported Recipe opens its own overview so you can run it again from there.</li>
+
+  <li style="margin-bottom: 12px;"><strong>Your data, kept safe</strong> — Intension backs up its database every day and keeps the last seven copies. If a store ever fails to open, it is set aside for recovery, never deleted. Pending activity is saved when you quit.</li>
+
+  <li><strong>Fixes and refinements</strong> — A stale session can no longer grow into days of fabricated time. Keyboard focus and Escape behave predictably in Activity and Pages, scrolling no longer runs under the page menu, and free disk space is re-read before capture starts.</li>
+</ul>
+
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.56.0/Intension-0.56.0.zip"
+          sparkle:edSignature="j5GSQjZc/84QEw3DXQhYuaeIXJZqTZrZF8UCjPa14xabv36QlyG1+QuuSHorOUhCfY7/QFG0GhwAYcNu/QgvCQ=="
+          length="81456889"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.55.0</title>
       <sparkle:version>0.55.0</sparkle:version>
       <sparkle:shortVersionString>0.55.0</sparkle:shortVersionString>
@@ -426,7 +460,7 @@
           length="27523122"
           type="application/octet-stream" />
     </item>
-    <intension:latestVersion>0.55.0</intension:latestVersion>
+    <intension:latestVersion>0.56.0</intension:latestVersion>
     <intension:minimumSupportedVersion>0.40.0</intension:minimumSupportedVersion>
 
     <item>
