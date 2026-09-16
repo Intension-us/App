@@ -10,6 +10,28 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.56.1</title>
+      <sparkle:version>0.56.1</sparkle:version>
+      <sparkle:shortVersionString>0.56.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <intension:sourceRevision>7daa305fcd9e1c3fe820cbcd6b80c105c5d4ffb4</intension:sourceRevision>
+      <intension:sourceTree>c6e8cf09859a4c2f759528881b5243c80ed67866</intension:sourceTree>
+      <intension:artifactSHA256>e689feaa52d46d2782ee4a4df29361de36a0b233cf4845f32fa978fd1952a7d3</intension:artifactSHA256>
+      <intension:releaseNotesSHA256>8322d2da7119ecb5953b4f8ee4d065156e6de86951926845bb74552d8e600f24</intension:releaseNotesSHA256>
+      <intension:bumpMinimumSupportedVersion>false</intension:bumpMinimumSupportedVersion>
+      <pubDate>Wed, 16 Sep 2026 19:07:48 +0000</pubDate>
+      <description><![CDATA[
+        <h2>What's New in 0.56.1</h2><ul><li>Fixes Activity entries that showed only app and timing records for work done in long-running Codex or Claude sessions, and keeps the background helper running after an update.</li></ul>
+
+      ]]></description>
+      <enclosure
+          url="https://github.com/Intension-us/App/releases/download/v0.56.1/Intension-0.56.1.zip"
+          sparkle:edSignature="eUfHOTKuSTLWwlkmLXU8oMByzWgbr+x6aA7ZwsGU2lQiXNpQd72fdlJoAspM5Np6STv/OwM3Xnn11Z5p1h91BA=="
+          length="81477199"
+          type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.56.0</title>
       <sparkle:version>0.56.0</sparkle:version>
       <sparkle:shortVersionString>0.56.0</sparkle:shortVersionString>
@@ -460,7 +482,7 @@
           length="27523122"
           type="application/octet-stream" />
     </item>
-    <intension:latestVersion>0.56.0</intension:latestVersion>
+    <intension:latestVersion>0.56.1</intension:latestVersion>
     <intension:minimumSupportedVersion>0.40.0</intension:minimumSupportedVersion>
 
     <item>
